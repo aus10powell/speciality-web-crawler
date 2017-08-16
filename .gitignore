@@ -1,2 +1,4 @@
 /tutorial
 /crawler_env
+.*
+*.pdf
