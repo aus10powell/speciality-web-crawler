@@ -2,3 +2,4 @@
 /crawler_env
 .*
 /rheum_pdfs
+.ipynb_checkpoints

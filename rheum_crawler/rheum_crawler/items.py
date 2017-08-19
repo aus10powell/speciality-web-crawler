@@ -10,5 +10,4 @@ import scrapy
 
 class RheumCrawlerItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+    pdf_url = scrapy.Field(serializer=str)
